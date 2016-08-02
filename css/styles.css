@@ -1,6 +1,9 @@
+
 h1 {
-  color: blue;
-  text-align: center;
+  color: #87987f;
+  /* HSLA */
+  background-color: hsla(50, 33%, 25%, 0.45);
+
 }
 
 h2 {
