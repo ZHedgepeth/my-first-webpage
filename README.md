@@ -2,10 +2,10 @@
 
 #### _HTML Exercise for Epicodus, 08/02/16_
 
-#### By _**Zach Hedgepeth, Alex Leibler**__
+#### By _**Zach Hedgepeth, Alex Leibler**_
 
 ## DESCRIPTION
-_This is my first webpage. _
+_This is my first webpage._
 
 ## SETUP/INSTALLATION REQUIREMENTS
 * _I guess just clone this repository._
