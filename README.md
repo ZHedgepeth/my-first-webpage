@@ -1,11 +1,11 @@
-# _{MY FIRST WEBPAGE}_
+# _MY FIRST WEBPAGE_
 
-#### _{HTML Exercise for Epicodus}, {08/02/16}_
+#### _HTML Exercise for Epicodus, 08/02/16_
 
-#### By _**{Zach Hedgepeth, Alex Leibler}**__
+#### By _**Zach Hedgepeth, Alex Leibler**__
 
 ## DESCRIPTION
-_{This is my first webpage. }_
+_This is my first webpage. _
 
 ## SETUP/INSTALLATION REQUIREMENTS
 * _I guess just clone this repository._
@@ -13,13 +13,13 @@ _{This is my first webpage. }_
 * _Trust me there isn't too much more to it._
 
 ## KNOWN BUGS
-_{We do not know of any issues as of yet.}_
+_We do not know of any issues as of yet._
 
 ## SUPPORT AND CONTACT DETAILS
-_{WE ARE ALEX AND ZACH. YOU KNOW WHERE TO FIND US...}_
+_WE ARE ALEX AND ZACH. YOU KNOW WHERE TO FIND US..._
 
 ## TECHNOLOGIES USED
-_{HTML}_
+_HTML_
 
 ### LICENSE
-Copyright (c) 2016 **_{Zach Hedgepeth, Alex Leibler}_**
+Copyright (c) 2016 **_Zach Hedgepeth, Alex Leibler_**
