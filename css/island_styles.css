@@ -4,8 +4,9 @@ body, h1, h2, h3, p, a, ul, li {
 }
 
 header {
-  background: url("http://www.travelsense.asia/wp-content/uploads/2015/11/Koh-Tao.jpg");
+  background: url("http://forwallpapers.com/wp-content/uploads/2013/10/Island-Desert-Wallpaper-Desktop.jpg");
   height: 200px;
+  background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
   align: center;
@@ -40,4 +41,9 @@ header p {
   background: red;
   width: 100%;
 
+}
+.text-box {
+  color: purple;
+  width: 25%;
+  margin: 20px;
 }
